@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>7B008BAA-9683-4AD1-95A7-0306269F8A46-419-00000EA76A364A7E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-3.6%" y="-0.2%" width="110.0%" height="100.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="12.4999998 17.9895838 18.9374997 21.8750006 17.2291664 14.5520837 22.9166662 9.62500025 15.4270831 8.98958357 12.4999998 2.0833334 9.57291655 8.98958357 2.0833334 9.62500025 7.77083326 14.5520837 6.06249997 21.8750006"></polygon>
+    </defs>
+    <g id="Appearance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Possible-Icons" transform="translate(-890.000000, -571.000000)">
+            <g id="dropdowns" filter="url(#filter-1)" transform="translate(858.000000, 255.000000)">
+                <g id="notifications" transform="translate(0.000000, 215.000000)">
+                    <g id="rows">
+                        <g id="4" transform="translate(0.000000, 96.000000)">
+                            <g id="icon" transform="translate(31.000000, 4.000000)">
+                                <g id="1.Atoms/icons/material-design/star">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <g id="Color-&amp;-Opacity" mask="url(#mask-3)" fill="#000000">
+                                        <rect id="Color" x="0" y="0" width="25" height="25"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

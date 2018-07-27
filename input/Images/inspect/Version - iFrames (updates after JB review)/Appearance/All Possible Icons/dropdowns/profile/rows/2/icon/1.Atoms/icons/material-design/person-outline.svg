@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>617891EB-D189-41B8-8006-E6D7340E0243-419-00000EA770F5AF2B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-3.6%" y="-0.2%" width="110.0%" height="100.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M12.5000002,6.14583343 C13.7083335,6.14583343 14.6875001,7.12500008 14.6875001,8.3333334 C14.6875001,9.54166671 13.7083335,10.5208334 12.5000002,10.5208334 C11.2916669,10.5208334 10.3125002,9.54166671 10.3125002,8.3333334 C10.3125002,7.12500008 11.2916669,6.14583343 12.5000002,6.14583343 L12.5000002,6.14583343 Z M12.5,15.5208338 C15.59375,15.5208338 18.8541666,17.0416672 18.8541666,17.7083339 L18.8541666,18.8541673 L6.14583343,18.8541673 L6.14583343,17.7083339 C6.14583343,17.0416672 9.40625005,15.5208338 12.5,15.5208338 L12.5,15.5208338 Z M12.5000004,4.16666679 C10.197917,4.16666679 8.33333358,6.03125018 8.33333358,8.33333358 C8.33333358,10.635417 10.197917,12.5000004 12.5000004,12.5000004 C14.8020838,12.5000004 16.6666672,10.635417 16.6666672,8.33333358 C16.6666672,6.03125018 14.8020838,4.16666679 12.5000004,4.16666679 L12.5000004,4.16666679 Z M12.5000004,13.5416668 C9.71875029,13.5416668 4.16666679,14.9375001 4.16666679,17.7083333 L4.16666679,20.8333332 L20.833334,20.8333332 L20.833334,17.7083333 C20.833334,14.9375001 15.2812505,13.5416668 12.5000004,13.5416668 L12.5000004,13.5416668 Z" id="path-2"></path>
+    </defs>
+    <g id="Appearance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Possible-Icons" transform="translate(-892.000000, -1154.000000)">
+            <g id="dropdowns" filter="url(#filter-1)" transform="translate(858.000000, 255.000000)">
+                <g id="profile" transform="translate(0.000000, 860.000000)">
+                    <g id="rows">
+                        <g id="2" transform="translate(0.000000, 32.000000)">
+                            <g id="icon" transform="translate(31.000000, 4.000000)">
+                                <g id="1.Atoms/icons/material-design/person-outline">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <g id="Color-&amp;-Opacity" mask="url(#mask-3)" fill="#000000">
+                                        <rect id="Color" x="0" y="0" width="25" height="25"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

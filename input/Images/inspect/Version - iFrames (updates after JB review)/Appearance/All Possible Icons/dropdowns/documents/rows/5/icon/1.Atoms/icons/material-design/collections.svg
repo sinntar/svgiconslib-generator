@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>BB13953A-2086-4555-823A-B10366F8F17D-419-00000EA767BC0C5C</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-3.6%" y="-0.2%" width="110.0%" height="100.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M22.9166673,16.6666672 L22.9166673,4.16666679 C22.9166673,3.02083342 21.9791673,2.0833334 20.833334,2.0833334 L8.33333358,2.0833334 C7.18750021,2.0833334 6.25000019,3.02083342 6.25000019,4.16666679 L6.25000019,16.6666672 C6.25000019,17.8125005 7.18750021,18.7500006 8.33333358,18.7500006 L20.833334,18.7500006 C21.9791673,18.7500006 22.9166673,17.8125005 22.9166673,16.6666672 L22.9166673,16.6666672 Z M11.4583334,12.5 L13.5729167,15.3229166 L16.6666667,11.4583334 L20.8333334,16.6666666 L8.3333334,16.6666666 L11.4583334,12.5 L11.4583334,12.5 Z M2.0833334,6.25000019 L2.0833334,20.833334 C2.0833334,21.9791673 3.02083342,22.9166673 4.16666679,22.9166673 L18.7500006,22.9166673 L18.7500006,20.833334 L4.16666679,20.833334 L4.16666679,6.25000019 L2.0833334,6.25000019 L2.0833334,6.25000019 Z" id="path-2"></path>
+    </defs>
+    <g id="Appearance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Possible-Icons" transform="translate(-890.000000, -388.000000)">
+            <g id="dropdowns" filter="url(#filter-1)" transform="translate(858.000000, 255.000000)">
+                <g id="documents">
+                    <g id="rows">
+                        <g id="5" transform="translate(0.000000, 128.000000)">
+                            <g id="icon" transform="translate(31.000000, 4.000000)">
+                                <g id="1.Atoms/icons/material-design/collections">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <g id="Color-&amp;-Opacity" mask="url(#mask-3)" fill="#000000">
+                                        <rect id="Color" x="0" y="0" width="25" height="25"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

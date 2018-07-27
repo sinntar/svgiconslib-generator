@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>73FF3BDF-4B8D-4307-BC35-71EF8FD700ED-419-00000EA76D75DAC5</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-3.6%" y="-0.2%" width="110.0%" height="100.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M12.4999998,2.0833334 C6.74999995,2.0833334 2.0833334,6.74999995 2.0833334,12.4999998 C2.0833334,18.2499997 6.74999995,22.9166662 12.4999998,22.9166662 C18.2499997,22.9166662 22.9166662,18.2499997 22.9166662,12.4999998 C22.9166662,6.74999995 18.2499997,2.0833334 12.4999998,2.0833334 L12.4999998,2.0833334 Z M13.5416668,17.7083334 L11.4583334,17.7083334 L11.4583334,11.4583334 L13.5416668,11.4583334 L13.5416668,17.7083334 L13.5416668,17.7083334 Z M13.5416668,9.375 L11.4583334,9.375 L11.4583334,7.2916666 L13.5416668,7.2916666 L13.5416668,9.375 L13.5416668,9.375 Z" id="path-2"></path>
+    </defs>
+    <g id="Appearance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Possible-Icons" transform="translate(-890.000000, -690.000000)">
+            <g id="dropdowns" filter="url(#filter-1)" transform="translate(858.000000, 255.000000)">
+                <g id="faqs" transform="translate(0.000000, 430.000000)">
+                    <g id="rows">
+                        <g id="1">
+                            <g id="icon" transform="translate(31.000000, 4.000000)">
+                                <g id="1.Atoms/icons/material-design/info">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <g id="Color-&amp;-Opacity" mask="url(#mask-3)" fill="#000000">
+                                        <rect id="Color" x="0" y="0" width="25" height="25"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>81885B0D-0A37-400D-A3A8-551DA8308728-419-00000EA768CA9366</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-3.6%" y="-0.2%" width="110.0%" height="100.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M4.16666679,8.33333358 L8.33333358,8.33333358 L8.33333358,4.16666679 L4.16666679,4.16666679 L4.16666679,8.33333358 L4.16666679,8.33333358 Z M10.4166668,20.8333336 L14.5833336,20.8333336 L14.5833336,16.6666668 L10.4166668,16.6666668 L10.4166668,20.8333336 L10.4166668,20.8333336 Z M4.16666679,20.8333336 L8.33333358,20.8333336 L8.33333358,16.6666668 L4.16666679,16.6666668 L4.16666679,20.8333336 L4.16666679,20.8333336 Z M4.16666679,14.5833336 L8.33333358,14.5833336 L8.33333358,10.4166668 L4.16666679,10.4166668 L4.16666679,14.5833336 L4.16666679,14.5833336 Z M10.4166668,14.5833336 L14.5833336,14.5833336 L14.5833336,10.4166668 L10.4166668,10.4166668 L10.4166668,14.5833336 L10.4166668,14.5833336 Z M16.6666668,4.16666679 L16.6666668,8.33333358 L20.8333336,8.33333358 L20.8333336,4.16666679 L16.6666668,4.16666679 L16.6666668,4.16666679 Z M10.4166668,8.33333358 L14.5833336,8.33333358 L14.5833336,4.16666679 L10.4166668,4.16666679 L10.4166668,8.33333358 L10.4166668,8.33333358 Z M16.6666668,14.5833336 L20.8333336,14.5833336 L20.8333336,10.4166668 L16.6666668,10.4166668 L16.6666668,14.5833336 L16.6666668,14.5833336 Z M16.6666668,20.8333336 L20.8333336,20.8333336 L20.8333336,16.6666668 L16.6666668,16.6666668 L16.6666668,20.8333336 L16.6666668,20.8333336 Z" id="path-2"></path>
+    </defs>
+    <g id="Appearance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Possible-Icons" transform="translate(-892.000000, -294.000000)">
+            <g id="dropdowns" filter="url(#filter-1)" transform="translate(858.000000, 255.000000)">
+                <g id="documents">
+                    <g id="rows">
+                        <g id="2" transform="translate(0.000000, 32.000000)">
+                            <g id="icon" transform="translate(31.000000, 4.000000)">
+                                <g id="1.Atoms/icons/material-design/apps">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <g id="Color-&amp;-Opacity" mask="url(#mask-3)" fill="#37474F">
+                                        <rect id="Rectangle" x="0" y="0" width="25" height="25"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="27px" viewBox="0 0 23 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>B2B1087B-DA0E-4A8D-9CF9-5E5A5E7C5193-419-00000EA76E401BF5</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-3.6%" y="-0.2%" width="110.0%" height="100.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M12.5,1.0416667 C7.32291667,1.0416667 3.125,5.23958346 3.125,10.4166669 L3.125,17.7083337 C3.125,19.4375004 4.52083333,20.8333338 6.25,20.8333338 L9.375,20.8333338 L9.375,12.5000003 L5.20833333,12.5000003 L5.20833333,10.4166669 C5.20833333,6.38541681 8.46875,3.12500008 12.5,3.12500008 C16.53125,3.12500008 19.7916667,6.38541681 19.7916667,10.4166669 L19.7916667,12.5000003 L15.625,12.5000003 L15.625,20.8333338 L19.7916667,20.8333338 L19.7916667,21.8750005 L12.5,21.8750005 L12.5,23.9583339 L18.75,23.9583339 C20.4791667,23.9583339 21.875,22.5625005 21.875,20.8333338 L21.875,10.4166669 C21.875,5.23958346 17.6770833,1.0416667 12.5,1.0416667 L12.5,1.0416667 Z" id="path-2"></path>
+    </defs>
+    <g id="Appearance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Possible-Icons" transform="translate(-891.000000, -1000.000000)">
+            <g id="dropdowns" filter="url(#filter-1)" transform="translate(858.000000, 255.000000)">
+                <g id="support" transform="translate(0.000000, 645.000000)">
+                    <g id="rows">
+                        <g id="4" transform="translate(0.000000, 96.000000)">
+                            <g id="icon" transform="translate(31.000000, 4.000000)">
+                                <g id="1.Atoms/icons/material-design/headset-mic">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <g id="Color-&amp;-Opacity" mask="url(#mask-3)" fill="#000000">
+                                        <rect id="Color" x="0" y="0" width="25" height="25"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

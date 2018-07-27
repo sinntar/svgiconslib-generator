@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="23px" viewBox="0 0 27 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>FA75EB39-C684-43D0-9173-0EF716BC45FF-419-00000EA77241A351</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-3.6%" y="-0.2%" width="110.0%" height="100.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M9.37499991,16.6666668 L16.1458332,16.6666668 C17.5833332,16.6666668 18.7499999,15.5000001 18.7499999,14.0625 C18.7499999,12.625 17.5833332,11.4583333 16.1458332,11.4583333 L16.0937499,11.4583333 C15.8437499,9.69791658 14.3333332,8.33333321 12.4999999,8.33333321 C11.0416666,8.33333321 9.79166657,9.19791657 9.20833324,10.4374999 L9.04166657,10.4374999 C7.46874991,10.6041666 6.24999991,11.9270833 6.24999991,13.5416667 C6.24999991,15.2708334 7.64583324,16.6666668 9.37499991,16.6666668 L9.37499991,16.6666668 Z M21.8750005,3.125 L3.12500008,3.125 C1.97916672,3.125 1.0416667,4.0625 1.0416667,5.20833333 L1.0416667,19.7916667 C1.0416667,20.9375 1.97916672,21.875 3.12500008,21.875 L21.8750005,21.875 C23.0208338,21.875 23.9583339,20.9375 23.9583339,19.7916667 L23.9583339,5.20833333 C23.9583339,4.0625 23.0208338,3.125 21.8750005,3.125 L21.8750005,3.125 Z M21.8750001,19.8020829 L3.12500009,19.8020829 L3.12500009,5.19791674 L21.8750001,5.19791674 L21.8750001,19.8020829 L21.8750001,19.8020829 Z" id="path-2"></path>
+    </defs>
+    <g id="Appearance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Possible-Icons" transform="translate(-889.000000, -1432.000000)">
+            <g id="dropdowns" filter="url(#filter-1)" transform="translate(858.000000, 255.000000)">
+                <g id="pref" transform="translate(0.000000, 1075.000000)">
+                    <g id="rows">
+                        <g id="4" transform="translate(0.000000, 96.000000)">
+                            <g id="icon" transform="translate(31.000000, 4.000000)">
+                                <g id="1.Atoms/icons/material-design/settings-system">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <g id="Color-&amp;-Opacity" mask="url(#mask-3)" fill="#000000">
+                                        <rect id="Color" x="0" y="0" width="25" height="25"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

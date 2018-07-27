@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="25px" viewBox="0 0 23 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>41EAED8A-8220-4941-9DA6-FF4BAF34B155-419-00000EA7686754CD</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-3.6%" y="-0.2%" width="110.0%" height="100.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M19.7916667,4.16666668 L15.4375,4.16666668 C15,2.95833337 13.8541667,2.0833334 12.5,2.0833334 C11.1458333,2.0833334 10,2.95833337 9.5625,4.16666668 L5.20833333,4.16666668 C4.0625,4.16666668 3.125,5.10416666 3.125,6.24999996 L3.125,20.8333329 C3.125,21.9791663 4.0625,22.9166662 5.20833333,22.9166662 L19.7916667,22.9166662 C20.9375,22.9166662 21.875,21.9791663 21.875,20.8333329 L21.875,6.24999996 C21.875,5.10416666 20.9375,4.16666668 19.7916667,4.16666668 L19.7916667,4.16666668 Z M12.5000003,4.16666679 C13.072917,4.16666679 13.541667,4.6354168 13.541667,5.20833349 C13.541667,5.78125017 13.072917,6.25000019 12.5000003,6.25000019 C11.9270836,6.25000019 11.4583336,5.78125017 11.4583336,5.20833349 C11.4583336,4.6354168 11.9270836,4.16666679 12.5000003,4.16666679 L12.5000003,4.16666679 Z M14.5833332,18.7499996 L7.29166679,18.7499996 L7.29166679,16.6666662 L14.5833332,16.6666662 L14.5833332,18.7499996 L14.5833332,18.7499996 Z M17.7083332,14.5833332 L7.29166679,14.5833332 L7.29166679,12.4999998 L17.7083332,12.4999998 L17.7083332,14.5833332 L17.7083332,14.5833332 Z M17.7083332,10.4166668 L7.29166679,10.4166668 L7.29166679,8.3333334 L17.7083332,8.3333334 L17.7083332,10.4166668 L17.7083332,10.4166668 Z" id="path-2"></path>
+    </defs>
+    <g id="Appearance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Possible-Icons" transform="translate(-891.000000, -324.000000)">
+            <g id="dropdowns" filter="url(#filter-1)" transform="translate(858.000000, 255.000000)">
+                <g id="documents">
+                    <g id="rows">
+                        <g id="3" transform="translate(0.000000, 64.000000)">
+                            <g id="icon" transform="translate(31.000000, 4.000000)">
+                                <g id="1.Atoms/icons/material-design/assignment">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <g id="Color-&amp;-Opacity" mask="url(#mask-3)" fill="#000000">
+                                        <rect id="Color" x="0" y="0" width="25" height="25"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>F529E2CD-882C-443E-BD4B-A05DFC213674-419-00000EA7704CC4D0</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-3.6%" y="-0.2%" width="110.0%" height="100.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M12.4999998,2.0833334 C6.74999995,2.0833334 2.0833334,6.74999995 2.0833334,12.4999998 C2.0833334,18.2499997 6.74999995,22.9166662 12.4999998,22.9166662 C18.2499997,22.9166662 22.9166662,18.2499997 22.9166662,12.4999998 C22.9166662,6.74999995 18.2499997,2.0833334 12.4999998,2.0833334 L12.4999998,2.0833334 Z M12.4999998,5.2083334 C14.2291665,5.2083334 15.6249998,6.60416673 15.6249998,8.3333334 C15.6249998,10.0625001 14.2291665,11.4583334 12.4999998,11.4583334 C10.7708331,11.4583334 9.37499981,10.0625001 9.37499981,8.3333334 C9.37499981,6.60416673 10.7708331,5.2083334 12.4999998,5.2083334 L12.4999998,5.2083334 Z M12.5000002,20.0000001 C9.89583352,20.0000001 7.59375019,18.6666668 6.25000019,16.6458336 C6.28125019,14.572917 10.4166669,13.4375004 12.5000002,13.4375004 C14.5729169,13.4375004 18.7187502,14.572917 18.7500002,16.6458336 C17.4062502,18.6666668 15.1041669,20.0000001 12.5000002,20.0000001 L12.5000002,20.0000001 Z" id="path-2"></path>
+    </defs>
+    <g id="Appearance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Possible-Icons" transform="translate(-890.000000, -1216.000000)">
+            <g id="dropdowns" filter="url(#filter-1)" transform="translate(858.000000, 255.000000)">
+                <g id="profile" transform="translate(0.000000, 860.000000)">
+                    <g id="rows">
+                        <g id="4" transform="translate(0.000000, 96.000000)">
+                            <g id="icon" transform="translate(31.000000, 4.000000)">
+                                <g id="1.Atoms/icons/material-design/account-circle">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <g id="Color-&amp;-Opacity" mask="url(#mask-3)" fill="#000000">
+                                        <rect id="Color" x="0" y="0" width="25" height="25"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
