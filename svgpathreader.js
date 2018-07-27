@@ -3,7 +3,7 @@ var fs = require('fs');
 var path = require('path');
 
 class SvgReader {
-    ReadSVG(folderPath){
+    ReadSvgs(folderPath){
         let svgs = [];
         if (!fs.existsSync(folderPath)){
             console.log("no dir ",folderPath);
@@ -11,7 +11,7 @@ class SvgReader {
         }
         var files=fs.readdirSync(folderPath);
         for(let i=0;i<files.length;i++){
-            console.log(files[i]);
+          
             let pathname = folderPath + files[i];
             const $ = cheerio.load(fs.readFileSync(pathname, { 'encoding': 'utf8'}));
             let viewbox =  $('svg').attr('viewBox');
@@ -26,7 +26,6 @@ class SvgReader {
 
             svgs.push(svg);
         };
-        console.log(svgs);
         return svgs;
     };
 }

@@ -7,7 +7,7 @@ class SvgLookUp{
         this.outputPath = outputPath;
         this.filter = filter;
 	}
-    lookUpFolder(startPath, outputPath, filter){
+    FetchSvgs(startPath, outputPath, filter){
         if (!fs.existsSync(startPath)){
             console.log("no dir ",startPath);
             return;
@@ -18,7 +18,7 @@ class SvgLookUp{
             var stat = fs.lstatSync(filename);
             if (stat.isDirectory()){
                 //console.log(filename);
-                this.lookUpFolder(filename,outputPath, filter); //recurse
+                this.FetchSvgs(filename,outputPath, filter); //recurse
             }
             else if (filename.indexOf(filter)>=0) {
                 console.log('-- found: ',filename);
